@@ -1,0 +1,363 @@
+14
+THE BLOCK SYSTEM:
+The appalling accident at Terra
+Cotta, following so closely on the heels
+of the wreck which i-esulted in the
+death of President Spencer, and fol
+lowed by the dreadful disaster on the
+Rock Island at Topeka, Kaus., tends
+to destroy our faith in the much
+talked-of block system. Two at least
+of these three recent conspicuous col
+lisions, resulting in the aggregate in
+the death of almost a hundred persons
+and in the maiming of a hundred more,
+occurred on roads which have been
+operating for years under the block
+system. This system, wnich we have
+been led to believe would be the
+remedy for such occurrences, appears
+to have been found wanting. But
+closer study of the situation will re
+veal the fact that the men, not the
+system, are to blame. Had the sys
+tem been rigidly observed, none of
+these accidents would have happened.
+A chain is no stronger than its weak
+est link, and man is the one weak link
+in the otherwise impregnable block
+system.
+So long as the lives of passengers
+arc in the hands of a sleepy signal
+man or an overworked engineer they
+are not safe. “To err is human,”
+and the sad truth of this has been
+brought home to us of late, as never
+before.
+The only solution of the problem
+of the immunity from collisions ap
+pears to lie in the absolute elimina
+tion of the human element; in othei*
+words, in the adoption of the “auto
+matic stop” system. With this system
+the signals are automatically set, and
+a train automatically stopped, if it
+attempts to run past a danger signal.
+Has Proved Satisfactory.
+The automatic stop system is in
+use on the Boston Elevated and in
+the New York Subway, and has given
+entire satisfaction. Its use would
+have absolutely prevented all three ac
+cidents referred to above. It is rath
+er expensive, it is true, but what is
+S7OO a mile compared with the enor
+mous loss of life and property that oc
+curred at Terra Cotta? And more
+over, the traveling public would prefer
+to pay more money for safe transpor
+tation than to risk life or limbs on a
+road inadequately equipped with safe
+ty devices. This, granting for the
+sake of argument that the absolutely
+automatic equipment would in the long
+run be more expensive than the pres
+ent system used by the Baltimore and
+Ohio Railroad.
+There are two distinct methods of
+operating trains on a railroad. The
+trains may be dispatched one after an
+other at intervals, according to a pre
+arranged schedule, allowing so many
+minutes between successive trains.
+This is known as the time interval
+method of operation. Or the trains
+may be so run that one train is al
+lowed to pass a given point only when
+a preceding train has passed a certain
+other point a predetermined distance
+in advance. This is known as the
+space interval method of operation,
+and roads employing this method are
+said to operate under the block sys
+tem The block system, then, is any
+arrangement wheieby an absolute
+space interval is preserved between all
+moving trains. It is obvious that
+where such a system is rigidly ob
+served rear-end collisions are impos
+sible.
+A block, then, is any given length
+of track into which the road is ar-
+By J. HANSON BOYDEN, Late Assistant Examiner, Division of Railroads, U. S. Patent Office.
+bitrarily divided, and the end of a
+block is a controlling point for all
+trains. The blocks may vary in length
+from a few hundred feet on roads
+where the traffic is congested to sev
+eral miles on roads where the trains
+are few.
+The Telegraph Block.
+The maintenance of blocks and con
+sequent control of trains is carried out
+in a number of different ways. One
+of the earliest, and, also most com
+mon of block systems, is that known
+as the telegraph block. This con
+sists simply in having at the ends
+of each block telegraph operators
+who communicate to each other advice
+in regard to train movements. The
+stations are provided with ordinary
+semaphore signals, operated by hand,
+by means of which the trains may be
+controlled. Operator A, at the begin
+ning of the block or section, holds
+train No. 2 till advised by operator B,
+at the other end, that train No. 1 has
+left the blocks. This is the system in
+use on the Baltimore and Ohio and
+on the Southern. If properly enforc
+ed and observed, it is very efficient,
+but the recent accidents show how lia
+ble it is to error and carelessness on
+the part of employes.
+Another well known system largely
+in use is the controlled manual. The
+organization is the same as that out
+lined above, except that the various
+signal levers are locked and controlled
+by electric circuits which extend from
+one block station to the next. Thus
+a signal lever at one station, is posi
+tively controlled, electro-mechanically,
+by the operator of the next station in
+advance, and it is, therefore, impossi
+ble for the first signalman to give
+a train permission to proceed, except
+with the knowledge and consent of the
+second signalman. This is the so
+called “lock and block” system.
+- A simple modification of this ar
+rangement is known as the “staff sysr
+tern,” which, however, is only adapt
+ed for single track roads, on which
+trains travel in both directions. In
+carrying out this system, small metal
+rods or “staffs” are provided at each
+station, and held normally in a frame
+by means of electric locks, controlled
+from the next station. Possession of
+one of these staffs by an engineer con
+stitutes a permit or pass, and gives
+him rhe absolute right of way over
+the block.
+As the locking frames are connected
+electrically in pairs, and so arranged
+that only one staff at a time can be
+withdrawn from any given pair of
+frames, it is evident that only one
+train can occupy the ulock at any one
+time. Our illustration shows a signal
+man delivering a staff to the engineer
+of a rapidly moving train.
+Os late years, however, more and
+more attention has been paid to auto
+matic block systems and signals.
+The development has been scarcely
+less rapid than that of the electric car
+or telephone.
+In the automatic block system the
+signals are moved by some power
+such as electricity oi’ compressed gas,
+and are controlled by the passage of
+trains over the tracks by means of
+electric circuits. The signals consist
+of light arms of painted wood asso
+ciated with frames carrying colored
+glass discs which co-operate with a
+lamp for giving night signals, the
+whole being mounted at the top of a
+mast or post, and connected with the
+operating mechanism.
+THE WEEKLY JEEFERSONIAN.
+Two General Types in Use.
+This operating mechanism has form
+ed the basis of innumerable patents.
+There are, however, but two general
+types that are in extended commercial
+use today. These are the pneumatic
+or compressed gas mechanism, and
+the all-electric mechanism. In the for
+mer, the signal is moved by a piston
+working in a cylinder, and in the lat
+ter the motive power is furnished
+by a small electric motor.
+The supply of gas to the piston and
+cylinder, or the supply of current to
+the electric motor, is controlled by a
+small magnet called a “relay.” This
+relay is included in a circuit formed
+by the rails of a block. When the
+block is in safe condition for a train
+to enter, the mechanism holds the
+signal in position to indicate “clear
+track, ’ but if there is a train in the
+block the wheels and axles of the
+train so affect the electric circuit of
+the relay as to cause it to influence
+rhe operating mechanism to move the
+signal to the position indicating ‘ line
+blocked.”
+Since this relay circuit runs through
+ihe rails of the track, and is led
+over all switches that may be in the
+block, it is evident that should any
+thing occur to interrupt the continuity
+of the track, the circuit of the relay
+would be broken. This is arranged to
+have the same effect on the signal as
+the presence of a train in the block.
+Shows Condition of Two Blocks.
+The signals at the beginning of
+each block are usually arranged to
+snow the condition of the next two
+biccks in advance. This may be ac
+complished by providing two signals
+on the same post, as shown iu our
+view illustrating an installation on the
+Lehigh Valley. The upper, or “home”
+signal, corresponds to the adjacent
+block, and the lower, or “distant” sig
+nal, corresponds to the second block
+ahead. The same result may be at
+tained by employing a single signal
+capable of occupying three positions,
+;.s explained below.
+When the two signals are used a
+train in the adjacent block causes both
+signals to extend their warning arms in
+a horizontal direction, whicn is inter
+preted to mean to an approaching
+train ‘ danger,” “stop.” A train in
+the second block causes the “home”
+signal to assume an inclined position
+oi about GO degrees, while the “dis
+taut” signal assumes the horizontal
+position. This means “caution —go
+slowly.” With a single signal the
+Horizontal position indicates “dan
+gei I ” Ihe “caution” indication is giv
+en by the signal assuming an Inter
+mediate inclined position of 45 de
+grees, and when the block ahead is
+clear the signal arm hangs vertically
+downward.
+Ail automatic signals are arranged
+sc that they will give a “danger” in
+dication it any of the circuits or con
+nections become broken or deranged.
+In this way errors, when they oc
+cur, are always on the side of safely.
+The automatic signal not only indi
+cates the presence of a train in the
+block, but, as pointed out above, it
+also indicates an open switch, or a
+broken or displaced track, resulting
+from any cause whatever.
+Makes Mistakes Impossible.
+Hence its vast superiority over the
+telegraph block or controlled manual.
+A signalman may fall asleep at his
+post, and a train dash on to ruin, or
+What It Is and Holv It Can Absolutely
+Prebent 'Disastrous Collisions.
+he may misunderstand his orders;
+but the red and green eyes of the auto
+matic signal are never closed, and the
+ever-present electric current cannot
+make a mistake.
+The statistics regarding the opera
+tion ot automatic signals indicate
+that no more reliable means of guid
+ing trains has been devised.
+Fifteen months’ experience on the
+Chicago and Northwestern Railroad
+with 203 blocks shows that there was
+only an. average of one false stop re
+quired by the signals to 4,813 signal
+movements. Furthermore, during the
+seven years that these signals have
+been in use there has been only one
+false “clear” indication per 9,000,000
+to 10,000,090 signal operations.
+On the New York subway, proba
+bly carrying the most congested traffic
+in the world, where during busy hours
+122 trains pass every sixty minutes, a
+wonderful record has been made. The
+hundreds of signals, aptly called the
+guardian angels of the subway, all
+perform their duty toward humanity
+by protecting each car from being
+run into by the following one, and
+perform it with such almost infalli
+ble precision tha(t there has been
+an average of only one failure to half
+a million movements.
+There is, however, one advantage
+peculiar to the manually operated
+block signal. Experience has proved
+that an engineer is less liable to dis
+regard the warning in the presence of
+a signalman. On the other hand, with
+the manual or telegraph block there
+are chances of error by the signalman,
+the operator in advance, and the en
+gineer, while with the automatic there
+is only the engineer to err. Hence the
+chance of error is as one to three
+in favor of the automatic signal.
+Human Element Eliminated.
+In several modern installations,
+moreover, the system has been so de
+signed that the human element is elim
+inated altogether by what is known
+as the “automatic stop.” The de
+vice consists of a little lever pivoted
+on the road bed, and so connected
+to a block signal that when the sig
+nal is at “clear” the levei' is de
+pressed, but when the signal indicates
+“danger” the lever is raised and pro
+jects above the track. Attached to
+the airbrake system of the train is a
+small valve which is so located as to
+be in the path of the lever when
+raised. If, then, an engineer attempts
+to rim past a danger signal, the
+brakes are automatically applied and
+the train is brought to a stop. Had
+this system been in use on the Bal
+timore and Ohio Railroad the appall
+ing accident at Terra Cotta would
+have been impossible. The second
+train would have been automatically
+stopped when attempting to run past
+the signal at Takoma.
+The question of relative cost of au
+tomatic and manual signals is large
+ly determined by the length of block
+necessary. Where blocks are short,
+there is no question but that the au
+tomatic is the most economical system.
+A prominent signal engineer, speaking
+on this subject, says: “It is very much
+more expensive to install and main,
+tain the manual (or telegraph) system.
+The salary of two operators alone
+would mean about $1,500 a year, and
+say that you made these blocks three
+miles long, this would cost SSOO a
+year per mile for labor alone, not tak
+ing into account the wear and tear on
